@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
