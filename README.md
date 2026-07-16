@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Enumeration
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
