@@ -73,8 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
