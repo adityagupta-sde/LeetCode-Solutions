@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
