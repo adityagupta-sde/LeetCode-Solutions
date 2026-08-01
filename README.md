@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
