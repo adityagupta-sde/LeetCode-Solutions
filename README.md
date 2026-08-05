@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Memoization
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
