@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -160,4 +163,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
