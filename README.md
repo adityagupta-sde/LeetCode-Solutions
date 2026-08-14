@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
