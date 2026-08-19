@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
