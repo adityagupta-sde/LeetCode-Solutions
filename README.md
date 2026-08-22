@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
