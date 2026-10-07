@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -339,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
