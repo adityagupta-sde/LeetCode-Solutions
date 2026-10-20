@@ -372,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/the-adityaa/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
